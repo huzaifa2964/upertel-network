@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.example.com/</loc>
+    <loc>https://https://www.upertelnetwork.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.example.com/services.html</loc>
+    <loc>https://https://www.upertelnetwork.com/services.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.example.com/why-us.html</loc>
+    <loc>https://https://www.upertelnetwork.com//why-us.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.example.com/pricing.html</loc>
+    <loc>https://https://www.upertelnetwork.com//pricing.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.example.com/contact.html</loc>
+    <loc>https://https://www.upertelnetwork.com//contact.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
